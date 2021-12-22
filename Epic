@@ -47,7 +47,7 @@ local L_29_ =
     loadstring(game:HttpGet("https://raw.githubusercontent.com/jaredloI/fps-gui/main/fps", true))()
 local L_30_ = L_29_:CreateWatermark("redware")
 
-local L_31_ = L_29_:CreateWindow("Redware | Silent Aim", Vector2.new(400, 500), Enum.KeyCode.V)
+local L_31_ = L_29_:CreateWindow("Redware | Silent Aim", Vector2.new(400, 500), Enum.KeyCode.RightControl)
 local L_32_ = L_31_:CreateTab("Legit")
 
 
